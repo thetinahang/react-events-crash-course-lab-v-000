@@ -19,6 +19,9 @@ export default class ChromeBoisDomain extends Component {
    * `toggleCycling` function with no arguments. Don't forget the click event
    * listener that should fire it!
    */
+   toggleCycling = () => {
+     
+   }
 
   /* TODO: Add an event listener to the `<canvas>` element to capture when a key
   /* is pressed. When a key is pressed, an event handler should invoke the
